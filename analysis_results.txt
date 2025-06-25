@@ -1,0 +1,4 @@
+Blinks Detected: 8
+Last Gaze Position (X, Y): (458.00, 188.00)
+Speech Type: Scripted
+Gaze Percentage to Camera: 0.00%

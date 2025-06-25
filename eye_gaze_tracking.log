@@ -1,0 +1,5 @@
+comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Etudiant-FST\\.conda\\envs\\Masters_2\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Etudiant-FST\.conda\envs\Masters_2\lib\site-packages\comtypes\gen'
+comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: Typelib different than module
+comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
